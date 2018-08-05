@@ -1,0 +1,138 @@
+##################################################
+########## Docomo系
+##################################################
+# リモートワイプ
+com.nttdocomo.android.wipe
+# リモートロック
+com.nttdocomo.android.remotelock
+# DcmAccountWipeService
+com.nttdocomo.android.accountwipe
+# DcmIpPushAggregator
+com.nttdocomo.android.pf.dcmippushaggregator
+# DcmWapPushHelper
+com.nttdocomo.android.pf.dcmwappush
+# アカウントリモートワイプ？
+com.nttdocomo.android.accountwipe
+# docomo Application Manager
+com.nttdocomo.android.applicationmanager
+# docomoストア
+com.nttdocomo.android.store
+# docomoサービス
+com.nttdocomo.android.docomoset
+# ドコモバックアップ
+com.nttdocomo.android.databackup
+# docomo Authenticator（ドコモアカウント認証）
+com.nttdocomo.android.accountauthenticator
+# docomo Initialization
+com.nttdocomo.android.initialization
+# docomo LIVE UX
+com.nttdocomo.android.dhome
+# ScreenLockService（Live UXに関連するものらしい）
+com.nttdocomo.android.screenlockservice
+# 文字編集
+com.nttdocomo.android.voiceeditor
+# ドコモ電話帳
+com.android.contacts
+# ドコモ位置情報
+jp.co.nttdocomo.lcsapp
+# ドコモ位置情報SUB
+jp.co.nttdocomo.lcsappsub
+# スケジュール&メモ
+com.nttdocomo.android.schedulememo
+# オートGPS
+com.nttdocomo.android.atf
+# dアカウント設定
+com.nttdocomo.android.idmanager
+# dフォト
+com.nttdocomo.android.photocollection
+# dヘルスケア
+com.nttdocomo.android.dhealthcare
+# dポイントクラブ
+com.nttdocomo.android.dpoint
+# dメニュー
+com.nttdocomo.android.dmenu2
+# d払い
+com.nttdocomo.keitai.payment
+# dブックマイ本棚DL
+jp.co.nttdocomo.dbook
+# ＋メッセージ
+com.nttdocomo.android.msg
+# iコンシェル
+com.nttdocomo.android.iconcier
+com.nttdocomo.android.iconcier_contents
+# しゃべってコンシェル
+com.nttdocomo.android.mascot
+# My docomo アプリ
+com.nttdocomo.android.mydocomo
+# おすすめ使い方ヒント
+com.nttdocomo.android.devicehelp
+# アプリクラッシュレポート
+com.nttdocomo.android.bugreport
+# スグ電
+com.nttdocomo.android.phonemotion
+# ドコモサービス
+com.nttdocomo.android.docomoset
+# ドコモクラウド設定
+com.nttdocomo.android.cloudset
+# データ保管BOX
+com.nttdocomo.android.cloudstorageservice
+# マネレコ（ドコモ家計簿アプリ）
+com.nttdocomo.android.moneyrecord
+# ドコモデータコピー
+com.nttdocomo.android.sdcardbackup
+# ドコモメール
+jp.co.nttdocomo.carriermail
+# 災害用キット（spモード契約がないと使えない）
+jp.co.nttdocomo.saigaiban
+# BridgingLauncher
+jp.co.nttdocomo.bridgelauncher
+# あんしんスキャン MCAFEE ドコモユーザじゃなければ使えない
+com.mcafee.vsm_android_dcm
+# トルカ（docomoお得クーポン情報アプリ）
+com.nttdocomo.android.toruca
+# はなして翻訳
+com.nttdocomo.android.voicetranslation
+# ドコモ安心マネージャー？
+com.nttdocomo.android.anmane2
+# ドコモ安心モード？
+jp.co.nttdocomo.anshinmode
+##################################################
+########## Sony系
+##################################################
+# Xperia Lounge Japan
+com.sonyericsson.androidapp.sehome
+# Gummi（キーボードテーマ）
+com.sonymobile.pobox.skin.gummi
+# Wood（キーボードテーマ）
+com.sonymobile.pobox.skin.wood
+##################################################
+########## Felica関連
+##################################################
+# DocomoFelicaService
+# com.nttdocomo.android.felicaremotelock
+# タップ＆ペイ
+# com.nttdocomo.android.tapandpay
+# お財布ケータイ関連の何か
+# com.nttdocomo.osaifu.tsmproxy
+##################################################
+########## 消すか迷ってるあたり
+##################################################
+# 災害エリアメール 消さない方が良いかも
+# com.nttdocomo.android.areamail
+# ソフトウェアアップデート 一応消さない
+# com.nttdocomo.android.osv
+# com.nttdocomo.android.osv.res.overlay_305
+# Gガイド番組表DL
+# com.ipg.gguide.dcm_app.android
+# デコメ絵文字マネージャー
+# jp.co.omronsoft.android.decoemojimanager_docomo
+# 絵文字のライセンス？
+# com.sonymobile.docomoemoji.license
+# ドコモ設定？
+# com.sonyericsson.docomo.settings
+##################################################
+########## 正体不明で判断に困ってるあたり
+##################################################
+# com.nttdocomo.android.apnsw
+# com.nttdocomo.android.kittingmanager
+# com.sonyericsson.android.servicemenu.product.res.overlay.docomo
