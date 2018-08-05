@@ -27,6 +27,8 @@ com.nttdocomo.android.accountauthenticator
 com.nttdocomo.android.initialization
 # docomo LIVE UX
 com.nttdocomo.android.dhome
+# docomo LIVE UX バックアップ
+com.nextbit.app
 # ScreenLockService（Live UXに関連するものらしい）
 com.nttdocomo.android.screenlockservice
 # 文字編集
@@ -101,10 +103,21 @@ jp.co.nttdocomo.anshinmode
 ##################################################
 # Xperia Lounge Japan
 com.sonyericsson.androidapp.sehome
+# Eメール
+com.sonymobile.email
+# News Suite
+com.sony.nfx.app.sfrc
 # Gummi（キーボードテーマ）
 com.sonymobile.pobox.skin.gummi
 # Wood（キーボードテーマ）
 com.sonymobile.pobox.skin.wood
+# ぼけエフェクト
+com.sonymobile.backgrounddefocus
+##################################################
+########## その他
+##################################################
+# QRコードスキャナー
+tw.mobileapp.qrcode.banner
 ##################################################
 ########## Felica関連
 ##################################################
@@ -112,7 +125,7 @@ com.sonymobile.pobox.skin.wood
 # com.nttdocomo.android.felicaremotelock
 # タップ＆ペイ
 # com.nttdocomo.android.tapandpay
-# お財布ケータイ関連の何か
+# お財布ケータイ TSMプロキシ
 # com.nttdocomo.osaifu.tsmproxy
 ##################################################
 ########## 消すか迷ってるあたり
