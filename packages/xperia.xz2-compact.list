@@ -21,6 +21,8 @@ com.nttdocomo.android.store
 com.nttdocomo.android.docomoset
 # ドコモバックアップ
 com.nttdocomo.android.databackup
+# 遠隔サポート
+com.rsupport.rs.activity.ntt
 # docomo Authenticator（ドコモアカウント認証）
 com.nttdocomo.android.accountauthenticator
 # docomo Initialization
