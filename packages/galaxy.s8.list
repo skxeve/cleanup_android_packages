@@ -1,0 +1,113 @@
+##################################################
+########## Docomo系
+##################################################
+# リモートワイプ
+com.nttdocomo.android.wipe
+# リモートロック
+com.nttdocomo.android.remotelock
+# DcmAccountWipeService
+com.nttdocomo.android.accountwipe
+# DcmIpPushAggregator
+com.nttdocomo.android.pf.dcmippushaggregator
+# DcmWapPushHelper
+com.nttdocomo.android.pf.dcmwappush
+# アカウントリモートワイプ？
+com.nttdocomo.android.accountwipe
+# docomo Application Manager
+com.nttdocomo.android.applicationmanager
+# docomoストア
+com.nttdocomo.android.store
+# docomoサービス
+com.nttdocomo.android.docomoset
+# ドコモバックアップ
+com.nttdocomo.android.databackup
+# 遠隔サポート
+com.rsupport.rs.activity.ntt
+# docomo Authenticator（ドコモアカウント認証）
+com.nttdocomo.android.accountauthenticator
+# docomo Initialization
+com.nttdocomo.android.initialization
+# docomo LIVE UX
+com.nttdocomo.android.dhome
+# docomo LIVE UX バックアップ
+com.nextbit.app
+# ScreenLockService（Live UXに関連するものらしい）
+com.nttdocomo.android.screenlockservice
+# 文字編集
+com.nttdocomo.android.voiceeditor
+# ドコモ電話帳
+com.android.contacts
+# ドコモ位置情報
+jp.co.nttdocomo.lcsapp
+# ドコモ位置情報SUB
+jp.co.nttdocomo.lcsappsub
+# スケジュール&メモ
+com.nttdocomo.android.schedulememo
+# オートGPS
+com.nttdocomo.android.atf
+# dアカウント設定
+com.nttdocomo.android.idmanager
+# dフォト
+com.nttdocomo.android.photocollection
+# dヘルスケア
+com.nttdocomo.android.dhealthcare
+# dポイントクラブ
+com.nttdocomo.android.dpoint
+# dメニュー
+com.nttdocomo.android.dmenu2
+# d払い
+com.nttdocomo.keitai.payment
+# dブックマイ本棚DL
+jp.co.nttdocomo.dbook
+# ＋メッセージ
+com.nttdocomo.android.msg
+# iコンシェル
+com.nttdocomo.android.iconcier
+com.nttdocomo.android.iconcier_contents
+# しゃべってコンシェル
+com.nttdocomo.android.mascot
+# My docomo アプリ
+com.nttdocomo.android.mydocomo
+# おすすめ使い方ヒント
+com.nttdocomo.android.devicehelp
+# アプリクラッシュレポート
+com.nttdocomo.android.bugreport
+# スグ電
+com.nttdocomo.android.phonemotion
+# ドコモサービス
+com.nttdocomo.android.docomoset
+# ドコモクラウド設定
+com.nttdocomo.android.cloudset
+# データ保管BOX
+com.nttdocomo.android.cloudstorageservice
+# マネレコ（ドコモ家計簿アプリ）
+com.nttdocomo.android.moneyrecord
+# ドコモデータコピー
+com.nttdocomo.android.sdcardbackup
+# ドコモメール
+jp.co.nttdocomo.carriermail
+# 災害用キット（spモード契約がないと使えない）
+jp.co.nttdocomo.saigaiban
+# BridgingLauncher
+jp.co.nttdocomo.bridgelauncher
+# あんしんスキャン MCAFEE ドコモユーザじゃなければ使えない
+com.mcafee.vsm_android_dcm
+# トルカ（docomoお得クーポン情報アプリ）
+com.nttdocomo.android.toruca
+# はなして翻訳
+com.nttdocomo.android.voicetranslation
+# ドコモ安心マネージャー？
+com.nttdocomo.android.anmane2
+# ドコモ安心モード？
+jp.co.nttdocomo.anshinmode
+##################################################
+########## Samsung系
+##################################################
+# Bixby系
+com.samsung.android.bixby.agent
+com.samsung.android.bixby.agent.dummy
+com.samsung.android.bixby.es.globalaction
+com.samsung.android.bixby.plmsync
+com.samsung.android.bixby.voiceinput
+com.samsung.android.bixby.wakeup
+com.samsung.systemui.bixby
